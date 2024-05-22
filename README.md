@@ -10,7 +10,7 @@
 
 This data analysis project aims to provide insights into the sales performance of a hospitality on various aspects,,like calculating Month,year. By analyzing various aspects of a data , we seek to identify trends, make data-driven recommendations and gain a deeper understanding | Dormitory Dashboard |
 
-  -(metrics-list)[metrics list.xlsx](https://github.com/MadisettySurekha/Documentation-Data-Analysis/files/15399091/metrics.list.xlsx)
+  !(metrics-list)[metrics list.xlsx](https://github.com/MadisettySurekha/Documentation-Data-Analysis/files/15399091/metrics.list.xlsx)
 
 
 ### Data Sources
@@ -64,6 +64,20 @@ The analysis results are summarized as follows:
 Based on the analysis, we recommend the following actions:
 - Invest in Dormitory and promotions during peak sales seasons to maximize revenue.
 - Focus on expanding and promoting products in Category A.
+
+
+😄
+💻
+|Heading1|Heading2|
+|---------|---------|
+|Content|Content2|
+|Python|SQL|
+
+
+
+
+
+
 
 
 
